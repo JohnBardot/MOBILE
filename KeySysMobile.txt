@@ -39,7 +39,7 @@
  local Info_1 = Instance.new("TextLabel") 
   
   
- _G.Key = "TG_Oa92jUS7" 
+ _G.Key = "TG_17njH1z" 
   
  -- Properties: 
   
